@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>회원관리 프로그램</title>
+    <title>회원관리 웹사이트</title>
 
     <style>
 
